@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student fio="Новиков Илья Максимович" group="МХ-105">
+    <exam name="Сопромат" score="74"/>
+    <exam name="Теоретическая механика" score="34"/>
+    <exam name="Детали машин" score="39"/>
+    <exam name="Инженерная графика" score="26"/>
+    <exam name="Материаловедение" score="71"/>
+  </student>
+  <student fio="Степанова Татьяна Романовна" group="СА-403">
+    <exam name="Теория систем" score="45"/>
+    <exam name="Автоматизация" score="74"/>
+    <exam name="Моделирование" score="76"/>
+    <exam name="Управление проектами" score="55"/>
+    <exam name="Информационные системы" score="60"/>
+  </student>
+  <student fio="Николаев Олег Павлович" group="МХ-105">
+    <exam name="Сопромат" score="75"/>
+    <exam name="Теоретическая механика" score="49"/>
+    <exam name="Детали машин" score="72"/>
+    <exam name="Инженерная графика" score="35"/>
+    <exam name="Материаловедение" score="28"/>
+  </student>
+  <student fio="Макарова Алина Петровна" group="ХТ-202">
+    <exam name="Органическая химия" score="25"/>
+    <exam name="Неорганическая химия" score="22"/>
+    <exam name="Физическая химия" score="69"/>
+    <exam name="Аналитическая химия" score="59"/>
+  </student>
+  <student fio="Егоров Владимир Петрович" group="СА-403">
+    <exam name="Теория систем" score="34"/>
+    <exam name="Автоматизация" score="50"/>
+    <exam name="Моделирование" score="43"/>
+    <exam name="Управление проектами" score="56"/>
+    <exam name="Информационные системы" score="39"/>
+  </student>
+  <student fio="Козлова Ксения Олеговна" group="ХТ-202">
+    <exam name="Органическая химия" score="24"/>
+    <exam name="Неорганическая химия" score="64"/>
+    <exam name="Физическая химия" score="74"/>
+    <exam name="Аналитическая химия" score="69"/>
+  </student>
+  <student fio="Соловьёв Илья Максимович" group="СА-403">
+    <exam name="Теория систем" score="72"/>
+    <exam name="Автоматизация" score="69"/>
+    <exam name="Моделирование" score="64"/>
+    <exam name="Управление проектами" score="38"/>
+    <exam name="Информационные системы" score="30"/>
+  </student>
+  <student fio="Белова Маргарита Алексеевна" group="БИ-304">
+    <exam name="Биохимия" score="21"/>
+    <exam name="Генетика" score="77"/>
+    <exam name="Молекулярная биология" score="47"/>
+    <exam name="Микробиология" score="76"/>
+    <exam name="Цитология" score="34"/>
+  </student>
+  <student fio="Васильев Никита Максимович" group="МХ-105">
+    <exam name="Сопромат" score="77"/>
+    <exam name="Теоретическая механика" score="61"/>
+    <exam name="Детали машин" score="77"/>
+    <exam name="Инженерная графика" score="33"/>
+    <exam name="Материаловедение" score="42"/>
+  </student>
+  <student fio="Кузьмин Никита Михайлович" group="БИ-304">
+    <exam name="Биохимия" score="30"/>
+    <exam name="Генетика" score="67"/>
+    <exam name="Молекулярная биология" score="25"/>
+    <exam name="Микробиология" score="45"/>
+    <exam name="Цитология" score="35"/>
+  </student>
+  <student fio="Степанова Наталья Алексеевна" group="СА-403">
+    <exam name="Теория систем" score="56"/>
+    <exam name="Автоматизация" score="31"/>
+    <exam name="Моделирование" score="36"/>
+    <exam name="Управление проектами" score="74"/>
+    <exam name="Информационные системы" score="24"/>
+  </student>
+  <student fio="Павлова Светлана Евгеньевна" group="МХ-105">
+    <exam name="Сопромат" score="48"/>
+    <exam name="Теоретическая механика" score="44"/>
+    <exam name="Детали машин" score="28"/>
+    <exam name="Инженерная графика" score="26"/>
+    <exam name="Материаловедение" score="78"/>
+  </student>
+  <student fio="Степанова Елена Алексеевна" group="СА-403">
+    <exam name="Теория систем" score="32"/>
+    <exam name="Автоматизация" score="38"/>
+    <exam name="Моделирование" score="65"/>
+    <exam name="Управление проектами" score="61"/>
+    <exam name="Информационные системы" score="31"/>
+  </student>
+  <student fio="Павлова Светлана Олеговна" group="СА-403">
+    <exam name="Теория систем" score="44"/>
+    <exam name="Автоматизация" score="33"/>
+    <exam name="Моделирование" score="58"/>
+    <exam name="Управление проектами" score="25"/>
+    <exam name="Информационные системы" score="75"/>
+  </student>
+  <student fio="Алексеев Константин Романович" group="БИ-304">
+    <exam name="Биохимия" score="52"/>
+    <exam name="Генетика" score="36"/>
+    <exam name="Молекулярная биология" score="73"/>
+    <exam name="Микробиология" score="27"/>
+    <exam name="Цитология" score="78"/>
+  </student>
+  <student fio="Новикова Ольга Андреевна" group="БИ-304">
+    <exam name="Биохимия" score="20"/>
+    <exam name="Генетика" score="20"/>
+    <exam name="Молекулярная биология" score="39"/>
+    <exam name="Микробиология" score="61"/>
+    <exam name="Цитология" score="63"/>
+  </student>
+  <student fio="Белова Наталья Викторовна" group="МХ-105">
+    <exam name="Сопромат" score="35"/>
+    <exam name="Теоретическая механика" score="46"/>
+    <exam name="Детали машин" score="52"/>
+    <exam name="Инженерная графика" score="50"/>
+    <exam name="Материаловедение" score="71"/>
+  </student>
+  <student fio="Соколова Ольга Петровна" group="ХТ-202">
+    <exam name="Органическая химия" score="62"/>
+    <exam name="Неорганическая химия" score="49"/>
+    <exam name="Физическая химия" score="24"/>
+    <exam name="Аналитическая химия" score="28"/>
+  </student>
+  <student fio="Иванов Илья Иванович" group="БИ-304">
+    <exam name="Биохимия" score="33"/>
+    <exam name="Генетика" score="49"/>
+    <exam name="Молекулярная биология" score="67"/>
+    <exam name="Микробиология" score="51"/>
+    <exam name="Цитология" score="34"/>
+  </student>
+  <student fio="Морозов Денис Михайлович" group="МХ-105">
+    <exam name="Сопромат" score="42"/>
+    <exam name="Теоретическая механика" score="69"/>
+    <exam name="Детали машин" score="75"/>
+    <exam name="Инженерная графика" score="77"/>
+    <exam name="Материаловедение" score="74"/>
+  </student>
+  <student fio="Фёдоров Владимир Викторович" group="МХ-105">
+    <exam name="Сопромат" score="48"/>
+    <exam name="Теоретическая механика" score="42"/>
+    <exam name="Детали машин" score="74"/>
+    <exam name="Инженерная графика" score="24"/>
+    <exam name="Материаловедение" score="30"/>
+  </student>
+  <student fio="Андреев Олег Сергеевич" group="СА-403">
+    <exam name="Теория систем" score="36"/>
+    <exam name="Автоматизация" score="21"/>
+    <exam name="Моделирование" score="43"/>
+    <exam name="Управление проектами" score="30"/>
+    <exam name="Информационные системы" score="74"/>
+  </student>
+  <student fio="Попова Ольга Алексеевна" group="БИ-304">
+    <exam name="Биохимия" score="62"/>
+    <exam name="Генетика" score="40"/>
+    <exam name="Молекулярная биология" score="21"/>
+    <exam name="Микробиология" score="52"/>
+    <exam name="Цитология" score="79"/>
+  </student>
+  <student fio="Титов Денис Сергеевич" group="БИ-304">
+    <exam name="Биохимия" score="28"/>
+    <exam name="Генетика" score="26"/>
+    <exam name="Молекулярная биология" score="36"/>
+    <exam name="Микробиология" score="66"/>
+    <exam name="Цитология" score="73"/>
+  </student>
+  <student fio="Морозова Анна Ивановна" group="ХТ-202">
+    <exam name="Органическая химия" score="38"/>
+    <exam name="Неорганическая химия" score="79"/>
+    <exam name="Физическая химия" score="26"/>
+    <exam name="Аналитическая химия" score="27"/>
+  </student>
+  <student fio="Павлов Олег Максимович" group="СА-403">
+    <exam name="Теория систем" score="28"/>
+    <exam name="Автоматизация" score="28"/>
+    <exam name="Моделирование" score="35"/>
+    <exam name="Управление проектами" score="22"/>
+    <exam name="Информационные системы" score="57"/>
+  </student>
+  <student fio="Андреева Ирина Андреевна" group="СА-403">
+    <exam name="Теория систем" score="54"/>
+    <exam name="Автоматизация" score="63"/>
+    <exam name="Моделирование" score="32"/>
+    <exam name="Управление проектами" score="65"/>
+    <exam name="Информационные системы" score="65"/>
+  </student>
+  <student fio="Морозов Максим Дмитриевич" group="БИ-304">
+    <exam name="Биохимия" score="56"/>
+    <exam name="Генетика" score="35"/>
+    <exam name="Молекулярная биология" score="32"/>
+    <exam name="Микробиология" score="55"/>
+    <exam name="Цитология" score="40"/>
+  </student>
+  <student fio="Степанов Иван Романович" group="СА-403">
+    <exam name="Теория систем" score="28"/>
+    <exam name="Автоматизация" score="61"/>
+    <exam name="Моделирование" score="78"/>
+    <exam name="Управление проектами" score="20"/>
+    <exam name="Информационные системы" score="47"/>
+  </student>
+  <student fio="Захаров Андрей Дмитриевич" group="СА-403">
+    <exam name="Теория систем" score="52"/>
+    <exam name="Автоматизация" score="42"/>
+    <exam name="Моделирование" score="28"/>
+    <exam name="Управление проектами" score="68"/>
+    <exam name="Информационные системы" score="71"/>
+  </student>
+  <student fio="Козлова Ольга Викторовна" group="ХТ-202">
+    <exam name="Органическая химия" score="28"/>
+    <exam name="Неорганическая химия" score="72"/>
+    <exam name="Физическая химия" score="35"/>
+    <exam name="Аналитическая химия" score="27"/>
+  </student>
+  <student fio="Гусева Юлия Владимировна" group="ХТ-202">
+    <exam name="Органическая химия" score="69"/>
+    <exam name="Неорганическая химия" score="34"/>
+    <exam name="Физическая химия" score="62"/>
+    <exam name="Аналитическая химия" score="26"/>
+  </student>
+  <student fio="Андреева София Сергеевна" group="СА-403">
+    <exam name="Теория систем" score="58"/>
+    <exam name="Автоматизация" score="29"/>
+    <exam name="Моделирование" score="76"/>
+    <exam name="Управление проектами" score="34"/>
+    <exam name="Информационные системы" score="32"/>
+  </student>
+  <student fio="Орлов Павел Андреевич" group="СА-403">
+    <exam name="Теория систем" score="54"/>
+    <exam name="Автоматизация" score="41"/>
+    <exam name="Моделирование" score="60"/>
+    <exam name="Управление проектами" score="52"/>
+    <exam name="Информационные системы" score="30"/>
+  </student>
+  <student fio="Захаров Алексей Максимович" group="ХТ-202">
+    <exam name="Органическая химия" score="48"/>
+    <exam name="Неорганическая химия" score="26"/>
+    <exam name="Физическая химия" score="48"/>
+    <exam name="Аналитическая химия" score="21"/>
+  </student>
+  <student fio="Белова Полина Викторовна" group="БИ-304">
+    <exam name="Биохимия" score="20"/>
+    <exam name="Генетика" score="22"/>
+    <exam name="Молекулярная биология" score="75"/>
+    <exam name="Микробиология" score="79"/>
+    <exam name="Цитология" score="74"/>
+  </student>
+  <student fio="Макарова Татьяна Петровна" group="ХТ-202">
+    <exam name="Органическая химия" score="48"/>
+    <exam name="Неорганическая химия" score="27"/>
+    <exam name="Физическая химия" score="30"/>
+    <exam name="Аналитическая химия" score="30"/>
+  </student>
+  <student fio="Смирнова Ольга Алексеевна" group="МХ-105">
+    <exam name="Сопромат" score="45"/>
+    <exam name="Теоретическая механика" score="29"/>
+    <exam name="Детали машин" score="33"/>
+    <exam name="Инженерная графика" score="34"/>
+    <exam name="Материаловедение" score="58"/>
+  </student>
+  <student fio="Кузнецова Алина Петровна" group="СА-403">
+    <exam name="Теория систем" score="77"/>
+    <exam name="Автоматизация" score="49"/>
+    <exam name="Моделирование" score="76"/>
+    <exam name="Управление проектами" score="78"/>
+    <exam name="Информационные системы" score="54"/>
+  </student>
+  <student fio="Михайлов Андрей Максимович" group="ХТ-202">
+    <exam name="Органическая химия" score="78"/>
+    <exam name="Неорганическая химия" score="26"/>
+    <exam name="Физическая химия" score="62"/>
+    <exam name="Аналитическая химия" score="72"/>
+  </student>
+  <student fio="Васильева Алина Петровна" group="БИ-304">
+    <exam name="Биохимия" score="44"/>
+    <exam name="Генетика" score="42"/>
+    <exam name="Молекулярная биология" score="53"/>
+    <exam name="Микробиология" score="22"/>
+    <exam name="Цитология" score="50"/>
+  </student>
+  <student fio="Семёнов Сергей Александрович" group="БИ-304">
+    <exam name="Биохимия" score="53"/>
+    <exam name="Генетика" score="63"/>
+    <exam name="Молекулярная биология" score="45"/>
+    <exam name="Микробиология" score="35"/>
+    <exam name="Цитология" score="38"/>
+  </student>
+  <student fio="Павлов Виктор Дмитриевич" group="ХТ-202">
+    <exam name="Органическая химия" score="77"/>
+    <exam name="Неорганическая химия" score="74"/>
+    <exam name="Физическая химия" score="38"/>
+    <exam name="Аналитическая химия" score="47"/>
+  </student>
+  <student fio="Соколова Полина Павловна" group="МХ-105">
+    <exam name="Сопромат" score="52"/>
+    <exam name="Теоретическая механика" score="69"/>
+    <exam name="Детали машин" score="39"/>
+    <exam name="Инженерная графика" score="47"/>
+    <exam name="Материаловедение" score="79"/>
+  </student>
+  <student fio="Степанова Анастасия Дмитриевна" group="ХТ-202">
+    <exam name="Органическая химия" score="21"/>
+    <exam name="Неорганическая химия" score="60"/>
+    <exam name="Физическая химия" score="24"/>
+    <exam name="Аналитическая химия" score="39"/>
+  </student>
+  <student fio="Васильев Илья Романович" group="СА-403">
+    <exam name="Теория систем" score="36"/>
+    <exam name="Автоматизация" score="56"/>
+    <exam name="Моделирование" score="39"/>
+    <exam name="Управление проектами" score="54"/>
+    <exam name="Информационные системы" score="58"/>
+  </student>
+  <student fio="Кузьмина Юлия Петровна" group="БИ-304">
+    <exam name="Биохимия" score="63"/>
+    <exam name="Генетика" score="50"/>
+    <exam name="Молекулярная биология" score="66"/>
+    <exam name="Микробиология" score="40"/>
+    <exam name="Цитология" score="74"/>
+  </student>
+  <student fio="Орлов Никита Александрович" group="ХТ-202">
+    <exam name="Органическая химия" score="64"/>
+    <exam name="Неорганическая химия" score="76"/>
+    <exam name="Физическая химия" score="44"/>
+    <exam name="Аналитическая химия" score="45"/>
+  </student>
+  <student fio="Кузьмин Константин Сергеевич" group="БИ-304">
+    <exam name="Биохимия" score="42"/>
+    <exam name="Генетика" score="54"/>
+    <exam name="Молекулярная биология" score="30"/>
+    <exam name="Микробиология" score="59"/>
+    <exam name="Цитология" score="73"/>
+  </student>
+</students>

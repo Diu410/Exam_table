@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student fio="Попов Артём Петрович" group="ПМ-401">
+    <exam name="Мат. анализ" score="89"/>
+    <exam name="Теория вероятностей" score="85"/>
+    <exam name="Статистика" score="93"/>
+    <exam name="Численные методы" score="82"/>
+    <exam name="Физика" score="76"/>
+  </student>
+  <student fio="Степанова Светлана Дмитриевна" group="ФИ-101">
+    <exam name="Общая физика" score="87"/>
+    <exam name="Механика" score="92"/>
+    <exam name="Молекулярная физика" score="72"/>
+    <exam name="Электричество" score="90"/>
+    <exam name="Оптика" score="78"/>
+  </student>
+  <student fio="Алексеев Кирилл Олегович" group="ПМ-401">
+    <exam name="Мат. анализ" score="87"/>
+    <exam name="Теория вероятностей" score="79"/>
+    <exam name="Статистика" score="74"/>
+    <exam name="Численные методы" score="74"/>
+    <exam name="Физика" score="71"/>
+  </student>
+  <student fio="Кузьмина Ксения Евгеньевна" group="ИТ-301">
+    <exam name="Математика" score="85"/>
+    <exam name="Программирование" score="83"/>
+    <exam name="Базы данных" score="94"/>
+    <exam name="Сети" score="82"/>
+    <exam name="Английский язык" score="85"/>
+  </student>
+  <student fio="Степанова Мария Александровна" group="ЭК-201">
+    <exam name="Микроэкономика" score="71"/>
+    <exam name="Макроэкономика" score="91"/>
+    <exam name="Бух. учет" score="94"/>
+    <exam name="Маркетинг" score="72"/>
+    <exam name="Эконометрика" score="78"/>
+  </student>
+  <student fio="Фёдоров Никита Олегович" group="ПМ-401">
+    <exam name="Мат. анализ" score="92"/>
+    <exam name="Теория вероятностей" score="96"/>
+    <exam name="Статистика" score="78"/>
+    <exam name="Численные методы" score="90"/>
+    <exam name="Физика" score="88"/>
+  </student>
+  <student fio="Смирнов Иван Михайлович" group="ПМ-401">
+    <exam name="Мат. анализ" score="75"/>
+    <exam name="Теория вероятностей" score="90"/>
+    <exam name="Статистика" score="84"/>
+    <exam name="Численные методы" score="92"/>
+    <exam name="Физика" score="95"/>
+  </student>
+  <student fio="Соловьёв Михаил Дмитриевич" group="ЭК-201">
+    <exam name="Микроэкономика" score="91"/>
+    <exam name="Макроэкономика" score="92"/>
+    <exam name="Бух. учет" score="96"/>
+    <exam name="Маркетинг" score="93"/>
+    <exam name="Эконометрика" score="97"/>
+  </student>
+  <student fio="Титов Владимир Романович" group="ЭК-201">
+    <exam name="Микроэкономика" score="78"/>
+    <exam name="Макроэкономика" score="98"/>
+    <exam name="Бух. учет" score="77"/>
+    <exam name="Маркетинг" score="78"/>
+    <exam name="Эконометрика" score="76"/>
+  </student>
+  <student fio="Семёнова Ксения Сергеевна" group="ПМ-401">
+    <exam name="Мат. анализ" score="81"/>
+    <exam name="Теория вероятностей" score="93"/>
+    <exam name="Статистика" score="94"/>
+    <exam name="Численные методы" score="74"/>
+    <exam name="Физика" score="96"/>
+  </student>
+  <student fio="Соколова Александра Евгеньевна" group="ПМ-401">
+    <exam name="Мат. анализ" score="81"/>
+    <exam name="Теория вероятностей" score="98"/>
+    <exam name="Статистика" score="91"/>
+    <exam name="Численные методы" score="81"/>
+    <exam name="Физика" score="98"/>
+  </student>
+  <student fio="Соловьёва Александра Максимовна" group="ЭК-201">
+    <exam name="Микроэкономика" score="70"/>
+    <exam name="Макроэкономика" score="93"/>
+    <exam name="Бух. учет" score="75"/>
+    <exam name="Маркетинг" score="77"/>
+    <exam name="Эконометрика" score="83"/>
+  </student>
+  <student fio="Титов Сергей Викторович" group="ФИ-101">
+    <exam name="Общая физика" score="84"/>
+    <exam name="Механика" score="98"/>
+    <exam name="Молекулярная физика" score="81"/>
+    <exam name="Электричество" score="97"/>
+    <exam name="Оптика" score="71"/>
+  </student>
+  <student fio="Егорова Анна Андреевна" group="ЭК-201">
+    <exam name="Микроэкономика" score="85"/>
+    <exam name="Макроэкономика" score="72"/>
+    <exam name="Бух. учет" score="89"/>
+    <exam name="Маркетинг" score="90"/>
+    <exam name="Эконометрика" score="99"/>
+  </student>
+  <student fio="Захарова Вероника Дмитриевна" group="ПМ-401">
+    <exam name="Мат. анализ" score="84"/>
+    <exam name="Теория вероятностей" score="74"/>
+    <exam name="Статистика" score="74"/>
+    <exam name="Численные методы" score="89"/>
+    <exam name="Физика" score="75"/>
+  </student>
+  <student fio="Новиков Алексей Олегович" group="ФИ-101">
+    <exam name="Общая физика" score="97"/>
+    <exam name="Механика" score="83"/>
+    <exam name="Молекулярная физика" score="90"/>
+    <exam name="Электричество" score="85"/>
+    <exam name="Оптика" score="93"/>
+  </student>
+  <student fio="Титова Маргарита Александровна" group="ФИ-101">
+    <exam name="Общая физика" score="82"/>
+    <exam name="Механика" score="84"/>
+    <exam name="Молекулярная физика" score="90"/>
+    <exam name="Электричество" score="85"/>
+    <exam name="Оптика" score="75"/>
+  </student>
+  <student fio="Соколова Маргарита Павловна" group="ФИ-101">
+    <exam name="Общая физика" score="90"/>
+    <exam name="Механика" score="98"/>
+    <exam name="Молекулярная физика" score="92"/>
+    <exam name="Электричество" score="89"/>
+    <exam name="Оптика" score="97"/>
+  </student>
+  <student fio="Макарова Татьяна Дмитриевна" group="ПМ-401">
+    <exam name="Мат. анализ" score="78"/>
+    <exam name="Теория вероятностей" score="72"/>
+    <exam name="Статистика" score="72"/>
+    <exam name="Численные методы" score="88"/>
+    <exam name="Физика" score="73"/>
+  </student>
+  <student fio="Кузнецова Ксения Петровна" group="ФИ-101">
+    <exam name="Общая физика" score="95"/>
+    <exam name="Механика" score="93"/>
+    <exam name="Молекулярная физика" score="83"/>
+    <exam name="Электричество" score="85"/>
+    <exam name="Оптика" score="70"/>
+  </student>
+  <student fio="Иванов Роман Олегович" group="ФИ-101">
+    <exam name="Общая физика" score="90"/>
+    <exam name="Механика" score="71"/>
+    <exam name="Молекулярная физика" score="93"/>
+    <exam name="Электричество" score="91"/>
+    <exam name="Оптика" score="83"/>
+  </student>
+  <student fio="Степанова Елена Петровна" group="ИТ-301">
+    <exam name="Математика" score="77"/>
+    <exam name="Программирование" score="95"/>
+    <exam name="Базы данных" score="76"/>
+    <exam name="Сети" score="95"/>
+    <exam name="Английский язык" score="80"/>
+  </student>
+  <student fio="Новиков Илья Иванович" group="ПМ-401">
+    <exam name="Мат. анализ" score="93"/>
+    <exam name="Теория вероятностей" score="86"/>
+    <exam name="Статистика" score="87"/>
+    <exam name="Численные методы" score="83"/>
+    <exam name="Физика" score="81"/>
+  </student>
+  <student fio="Попова Полина Павловна" group="ИТ-301">
+    <exam name="Математика" score="79"/>
+    <exam name="Программирование" score="74"/>
+    <exam name="Базы данных" score="74"/>
+    <exam name="Сети" score="90"/>
+    <exam name="Английский язык" score="79"/>
+  </student>
+  <student fio="Титов Иван Викторович" group="ФИ-101">
+    <exam name="Общая физика" score="87"/>
+    <exam name="Механика" score="73"/>
+    <exam name="Молекулярная физика" score="70"/>
+    <exam name="Электричество" score="77"/>
+    <exam name="Оптика" score="70"/>
+  </student>
+  <student fio="Васильев Андрей Романович" group="ИТ-301">
+    <exam name="Математика" score="94"/>
+    <exam name="Программирование" score="75"/>
+    <exam name="Базы данных" score="74"/>
+    <exam name="Сети" score="85"/>
+    <exam name="Английский язык" score="86"/>
+  </student>
+  <student fio="Петров Денис Андреевич" group="ИТ-301">
+    <exam name="Математика" score="98"/>
+    <exam name="Программирование" score="99"/>
+    <exam name="Базы данных" score="76"/>
+    <exam name="Сети" score="93"/>
+    <exam name="Английский язык" score="87"/>
+  </student>
+  <student fio="Лебедев Артём Владимирович" group="ПМ-401">
+    <exam name="Мат. анализ" score="87"/>
+    <exam name="Теория вероятностей" score="85"/>
+    <exam name="Статистика" score="78"/>
+    <exam name="Численные методы" score="92"/>
+    <exam name="Физика" score="93"/>
+  </student>
+  <student fio="Кузьмин Никита Алексеевич" group="ФИ-101">
+    <exam name="Общая физика" score="89"/>
+    <exam name="Механика" score="91"/>
+    <exam name="Молекулярная физика" score="85"/>
+    <exam name="Электричество" score="86"/>
+    <exam name="Оптика" score="71"/>
+  </student>
+  <student fio="Захарова Светлана Викторовна" group="ПМ-401">
+    <exam name="Мат. анализ" score="70"/>
+    <exam name="Теория вероятностей" score="93"/>
+    <exam name="Статистика" score="87"/>
+    <exam name="Численные методы" score="79"/>
+    <exam name="Физика" score="99"/>
+  </student>
+  <student fio="Семёнов Роман Павлович" group="ЭК-201">
+    <exam name="Микроэкономика" score="76"/>
+    <exam name="Макроэкономика" score="79"/>
+    <exam name="Бух. учет" score="95"/>
+    <exam name="Маркетинг" score="81"/>
+    <exam name="Эконометрика" score="74"/>
+  </student>
+  <student fio="Орлова Елена Владимировна" group="ФИ-101">
+    <exam name="Общая физика" score="91"/>
+    <exam name="Механика" score="75"/>
+    <exam name="Молекулярная физика" score="84"/>
+    <exam name="Электричество" score="86"/>
+    <exam name="Оптика" score="70"/>
+  </student>
+  <student fio="Кузнецова Маргарита Сергеевна" group="ПМ-401">
+    <exam name="Мат. анализ" score="72"/>
+    <exam name="Теория вероятностей" score="75"/>
+    <exam name="Статистика" score="93"/>
+    <exam name="Численные методы" score="70"/>
+    <exam name="Физика" score="93"/>
+  </student>
+  <student fio="Михайлов Илья Олегович" group="ФИ-101">
+    <exam name="Общая физика" score="98"/>
+    <exam name="Механика" score="82"/>
+    <exam name="Молекулярная физика" score="74"/>
+    <exam name="Электричество" score="89"/>
+    <exam name="Оптика" score="96"/>
+  </student>
+  <student fio="Смирнова Елена Максимовна" group="ИТ-301">
+    <exam name="Математика" score="91"/>
+    <exam name="Программирование" score="72"/>
+    <exam name="Базы данных" score="83"/>
+    <exam name="Сети" score="72"/>
+    <exam name="Английский язык" score="78"/>
+  </student>
+  <student fio="Орлова Ирина Максимовна" group="ФИ-101">
+    <exam name="Общая физика" score="99"/>
+    <exam name="Механика" score="72"/>
+    <exam name="Молекулярная физика" score="76"/>
+    <exam name="Электричество" score="85"/>
+    <exam name="Оптика" score="76"/>
+  </student>
+  <student fio="Фёдоров Артём Романович" group="ФИ-101">
+    <exam name="Общая физика" score="74"/>
+    <exam name="Механика" score="80"/>
+    <exam name="Молекулярная физика" score="97"/>
+    <exam name="Электричество" score="75"/>
+    <exam name="Оптика" score="87"/>
+  </student>
+  <student fio="Степанова Наталья Дмитриевна" group="ФИ-101">
+    <exam name="Общая физика" score="74"/>
+    <exam name="Механика" score="77"/>
+    <exam name="Молекулярная физика" score="79"/>
+    <exam name="Электричество" score="79"/>
+    <exam name="Оптика" score="89"/>
+  </student>
+  <student fio="Титов Александр Павлович" group="ЭК-201">
+    <exam name="Микроэкономика" score="90"/>
+    <exam name="Макроэкономика" score="99"/>
+    <exam name="Бух. учет" score="80"/>
+    <exam name="Маркетинг" score="96"/>
+    <exam name="Эконометрика" score="73"/>
+  </student>
+  <student fio="Кузьмина София Максимовна" group="ИТ-301">
+    <exam name="Математика" score="93"/>
+    <exam name="Программирование" score="75"/>
+    <exam name="Базы данных" score="94"/>
+    <exam name="Сети" score="86"/>
+    <exam name="Английский язык" score="89"/>
+  </student>
+  <student fio="Титов Денис Петрович" group="ИТ-301">
+    <exam name="Математика" score="93"/>
+    <exam name="Программирование" score="82"/>
+    <exam name="Базы данных" score="88"/>
+    <exam name="Сети" score="78"/>
+    <exam name="Английский язык" score="84"/>
+  </student>
+  <student fio="Макаров Константин Олегович" group="ПМ-401">
+    <exam name="Мат. анализ" score="99"/>
+    <exam name="Теория вероятностей" score="86"/>
+    <exam name="Статистика" score="87"/>
+    <exam name="Численные методы" score="75"/>
+    <exam name="Физика" score="80"/>
+  </student>
+  <student fio="Степанов Виктор Петрович" group="ПМ-401">
+    <exam name="Мат. анализ" score="97"/>
+    <exam name="Теория вероятностей" score="73"/>
+    <exam name="Статистика" score="80"/>
+    <exam name="Численные методы" score="76"/>
+    <exam name="Физика" score="85"/>
+  </student>
+  <student fio="Титова Анастасия Сергеевна" group="ИТ-301">
+    <exam name="Математика" score="79"/>
+    <exam name="Программирование" score="79"/>
+    <exam name="Базы данных" score="91"/>
+    <exam name="Сети" score="80"/>
+    <exam name="Английский язык" score="80"/>
+  </student>
+  <student fio="Николаева Полина Олеговна" group="ПМ-401">
+    <exam name="Мат. анализ" score="88"/>
+    <exam name="Теория вероятностей" score="78"/>
+    <exam name="Статистика" score="71"/>
+    <exam name="Численные методы" score="84"/>
+    <exam name="Физика" score="89"/>
+  </student>
+  <student fio="Волков Дмитрий Романович" group="ФИ-101">
+    <exam name="Общая физика" score="94"/>
+    <exam name="Механика" score="80"/>
+    <exam name="Молекулярная физика" score="70"/>
+    <exam name="Электричество" score="95"/>
+    <exam name="Оптика" score="75"/>
+  </student>
+  <student fio="Белова Алина Сергеевна" group="ЭК-201">
+    <exam name="Микроэкономика" score="72"/>
+    <exam name="Макроэкономика" score="89"/>
+    <exam name="Бух. учет" score="88"/>
+    <exam name="Маркетинг" score="85"/>
+    <exam name="Эконометрика" score="78"/>
+  </student>
+  <student fio="Смирнов Олег Петрович" group="ЭК-201">
+    <exam name="Микроэкономика" score="89"/>
+    <exam name="Макроэкономика" score="88"/>
+    <exam name="Бух. учет" score="90"/>
+    <exam name="Маркетинг" score="82"/>
+    <exam name="Эконометрика" score="93"/>
+  </student>
+  <student fio="Попов Алексей Петрович" group="ЭК-201">
+    <exam name="Микроэкономика" score="94"/>
+    <exam name="Макроэкономика" score="76"/>
+    <exam name="Бух. учет" score="97"/>
+    <exam name="Маркетинг" score="78"/>
+    <exam name="Эконометрика" score="94"/>
+  </student>
+</students>
